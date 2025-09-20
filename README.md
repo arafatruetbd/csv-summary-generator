@@ -60,7 +60,7 @@ dtype: float64
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/csv-summary-generator.git
+git clone https://github.com/arafatruetbd/csv-summary-generator.git
 cd csv-summary-generator
 ```
 
