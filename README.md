@@ -78,6 +78,4 @@ jupyter notebook summary_generator.ipynb
 
 4. Run all cells to see summary statistics.
 
-```
 
-```
